@@ -91,6 +91,18 @@ body {
 
 .event_name{
 }
+
+.event_name a{
+  color: red;
+  font-size: 20px;
+  padding: 10px;
+  transition: all .5s ease;
+}
+
+.event_name a:hover {
+  color: black;
+}
+
 .event_time{
 
 }
