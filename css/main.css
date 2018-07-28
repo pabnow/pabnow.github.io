@@ -101,6 +101,16 @@ body {
   color: black;
 }
 
+.events a{
+  color: red;
+  transition: all .5s ease;
+}
+
+.events a:hover {
+  color: black;
+}
+
+
 .event_time{
 
 }
