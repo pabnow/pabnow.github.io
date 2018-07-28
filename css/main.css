@@ -94,8 +94,6 @@ body {
 
 .event_name a{
   color: red;
-  font-size: 20px;
-  padding: 10px;
   transition: all .5s ease;
 }
 
