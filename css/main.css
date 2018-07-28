@@ -101,16 +101,6 @@ body {
   color: black;
 }
 
-.events a{
-  color: red;
-  transition: all .5s ease;
-}
-
-.events a:hover {
-  color: black;
-}
-
-
 .event_time{
 
 }
@@ -158,6 +148,17 @@ body {
 
 .google-document{
   text-align: center;
+}
+
+
+
+.get-involved a{
+  color: red;
+  transition: all .5s ease;
+}
+
+.get-involved a:hover {
+  color: black;
 }
 
 
