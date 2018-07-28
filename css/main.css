@@ -1,0 +1,168 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+
+html { 
+	position: relative:
+	min-height: 100%;
+}
+body {
+  padding-top: 3.5rem;
+  background: #fdfdfd;
+}
+
+
+.navbar{
+	background: rgba(0, 0, 0, 0.5) /* Green background with 30% opacity */
+}
+
+.bg-dark{
+}
+
+.jumbotron{
+	background-color: #fdfdfd;
+	margin: 0;
+}
+
+
+.mission-statement{
+	width: 80%; 
+	max-width: 300px;	
+	font-size: 1.1em;
+}
+
+
+.mission-statement b{
+	color: red;
+	font-size: 1.2em;
+}
+
+.mission-statement span{
+	font-weight: bold;
+	color: red;
+	font-size: 1.2em;
+}
+
+
+
+
+.card{
+	display: inline-block;
+}
+
+.card-body{
+	background-color: lightgray;
+}
+
+.card-img-top{
+	/*border-bottom: single black 1px;*/
+}
+
+.document_buttons{
+	display: inline-block;
+	margin: 15px;
+}
+
+
+
+.documents{
+	width: 80%; 
+	max-width: 650px;	
+}
+
+
+
+.events{
+	font-size: 1.1em;
+}
+
+.event {
+	margin: 10px;
+	border-top: 1px solid rgba(0,0,0,.2);
+}
+
+.events div:last-child {
+	padding-bottom: 10px; 
+	border-bottom: 1px solid rgba(0,0,0,.2);
+}
+
+.event_date{
+	font-size: 1.2em;
+	font-weight:bold;
+}
+
+.event_name{
+}
+.event_time{
+
+}
+.event_location{
+
+}
+.event_link{
+
+}
+
+
+.event span{
+	display: inline-block;
+	padding-left: 40px;
+}
+
+
+
+.follow-us{
+	margin-bottom: 15px;
+}
+
+.follow-us h4 row{
+	text-align: center:
+}
+
+.follow-us a{
+  color: red;
+  font-size: 20px;
+  padding: 10px;
+  transition: all .5s ease;
+}
+
+.follow-us a:hover {
+  color: black;
+}
+
+
+
+.newsletter-btn{
+	margin-top: 1.5em;
+}
+
+
+
+.google-document{
+  text-align: center;
+}
+
+
+
+
+.footer {
+  /**
+  background: #061D25;
+  */
+    padding: 10px 10px;
+
+
+  
+  
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  transition: all .5s ease;
+}
+.footer div{
+	margin-bottom: 15px;
+}
+
+.footer a:hover {
+  color: black;
+}
