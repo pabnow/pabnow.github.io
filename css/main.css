@@ -26,19 +26,19 @@ body {
 .mission-statement{
 	width: 80%; 
 	max-width: 300px;	
-	font-size: 1.1em;
+	font-size: 1.0em;
 }
 
 
 .mission-statement b{
 	color: red;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 .mission-statement span{
 	font-weight: bold;
 	color: red;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 
