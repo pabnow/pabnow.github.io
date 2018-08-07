@@ -190,3 +190,12 @@ body {
 .footer a:hover {
   color: black;
 }
+
+.red-link a{
+  color: red;
+  transition: all .5s ease;
+}
+
+.red-link a:hover {
+  color: black;
+}
