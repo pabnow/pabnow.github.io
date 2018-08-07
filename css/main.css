@@ -20,6 +20,9 @@ body {
 .jumbotron{
 	background-color: #fdfdfd;
 	margin: 0;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	
 }
 
 
