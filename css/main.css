@@ -73,6 +73,17 @@ body {
 
 
 
+.get-involved a{
+  color: red;
+  transition: all .5s ease;
+}
+
+.get-involved a:hover {
+  color: black;
+}
+
+
+
 .events{
 	font-size: 1.1em;
 }
@@ -191,11 +202,3 @@ body {
   color: black;
 }
 
-.red-link a{
-  color: red;
-  transition: all .5s ease;
-}
-
-.red-link a:hover {
-  color: black;
-}
